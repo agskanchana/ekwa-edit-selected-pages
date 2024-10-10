@@ -4,7 +4,7 @@ Plugin Name: Ekwa Edit Selected Pages
 Plugin URI:
 Description: Admin can select pages which  user role "editor" can edit rest of the pages and admin menus are hidden
 Author URI: www.linkedin.com/in/sameera-kanchana-3b4660198
-Version: 1.0.0
+Version: 1.0.1
 Author: Sameera
 
 */
