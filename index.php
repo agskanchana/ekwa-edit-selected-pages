@@ -13,9 +13,9 @@ require 'includes/plugin-update-checker/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
 
 $myUpdateChecker = PucFactory::buildUpdateChecker(
-	'https://github.com/agskanchana/my-plugin-template/',
+	'https://github.com/agskanchana/ekwa-edit-selected-pages/',
 	__FILE__,
-	'my-plugin-template'
+	'ekwa-edit-selected-pages'
 );
 
 
